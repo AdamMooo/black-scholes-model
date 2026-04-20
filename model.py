@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
-%matplotlib inline
 
 # ── Black-Scholes closed-form ──────────────────────────────────────────
 def black_scholes_price(S0, K, T, r, sigma, option="call"):
