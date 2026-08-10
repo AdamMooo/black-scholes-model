@@ -1,0 +1,7 @@
+Black-Scholes demo output
+spot=100
+strike=105
+maturity_years=1.0
+rate=0.05
+volatility=0.05
+call_price=2.054336
