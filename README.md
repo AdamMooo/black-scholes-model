@@ -1,5 +1,6 @@
 # Black-Scholes Model
 
+
 Small Python demo of European option pricing with the Black-Scholes closed-form formula plus a geometric Brownian motion (GBM) path simulator for simple visualization.
 
 ## What this project does
